@@ -1,0 +1,14 @@
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\bin\Debug\net8.0\Herencia.exe
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\bin\Debug\net8.0\Herencia.deps.json
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\bin\Debug\net8.0\Herencia.runtimeconfig.json
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\bin\Debug\net8.0\Herencia.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\bin\Debug\net8.0\Herencia.pdb
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfo.cs
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\Herencia.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\refint\Herencia.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\Herencia.pdb
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\Herencia.genruntimeconfig.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\Herencia\Herencia\obj\Debug\net8.0\ref\Herencia.dll

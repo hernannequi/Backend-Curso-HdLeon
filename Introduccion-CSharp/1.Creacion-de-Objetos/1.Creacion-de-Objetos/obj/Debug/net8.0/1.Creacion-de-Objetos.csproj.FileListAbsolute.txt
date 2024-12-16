@@ -1,0 +1,14 @@
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\bin\Debug\net8.0\1.Creacion-de-Objetos.exe
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\bin\Debug\net8.0\1.Creacion-de-Objetos.deps.json
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\bin\Debug\net8.0\1.Creacion-de-Objetos.runtimeconfig.json
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\bin\Debug\net8.0\1.Creacion-de-Objetos.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\bin\Debug\net8.0\1.Creacion-de-Objetos.pdb
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\1.Creacion-de-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\1.Creacion-de-Objetos.AssemblyInfoInputs.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\1.Creacion-de-Objetos.AssemblyInfo.cs
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\1.Creacion-de-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\1.Creacion-de-Objetos.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\refint\1.Creacion-de-Objetos.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\1.Creacion-de-Objetos.pdb
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\1.Creacion-de-Objetos.genruntimeconfig.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\1.Creacion-de-Objetos\1.Creacion-de-Objetos\obj\Debug\net8.0\ref\1.Creacion-de-Objetos.dll

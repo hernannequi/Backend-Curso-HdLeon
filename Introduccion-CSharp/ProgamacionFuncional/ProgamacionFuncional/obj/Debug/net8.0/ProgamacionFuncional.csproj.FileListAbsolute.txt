@@ -1,0 +1,14 @@
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\bin\Debug\net8.0\ProgamacionFuncional.exe
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\bin\Debug\net8.0\ProgamacionFuncional.deps.json
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\bin\Debug\net8.0\ProgamacionFuncional.runtimeconfig.json
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\bin\Debug\net8.0\ProgamacionFuncional.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\bin\Debug\net8.0\ProgamacionFuncional.pdb
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ProgamacionFuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ProgamacionFuncional.AssemblyInfoInputs.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ProgamacionFuncional.AssemblyInfo.cs
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ProgamacionFuncional.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ProgamacionFuncional.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\refint\ProgamacionFuncional.dll
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ProgamacionFuncional.pdb
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ProgamacionFuncional.genruntimeconfig.cache
+C:\Users\PC-1\Documents\GitHub\Backend-Curso-hdleon\Introduccion-CSharp\ProgamacionFuncional\ProgamacionFuncional\obj\Debug\net8.0\ref\ProgamacionFuncional.dll
